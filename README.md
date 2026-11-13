@@ -1,13 +1,13 @@
 # OpenSEM - Free CB-SEM and PLS-SEM Software
 
-OpenSEM is free desktop software for **PLS-SEM** (partial least squares structural equation modelling) and, from the next release, **CB-SEM** (covariance-based SEM). Free to download and use, including for business.
+OpenSEM is free desktop software for **CB-SEM** (covariance-based structural equation modelling) and **PLS-SEM** (partial least squares SEM). Free to download and use, including for business.
 
 - **Automatic:** checks your data, picks the right method, explains every result in plain language
 - **Backed by research:** every method and threshold cites its published source, and the report includes a methods paragraph and reference list
 - **Fast:** uses every CPU core; 10,000 bootstrap resamples in well under a second
 - **Private:** works fully offline; your data never leaves your computer
 
-Website: https://vyrox.com/sem/
+Website: https://www.vyrox.com/opensem
 
 ## Download
 
